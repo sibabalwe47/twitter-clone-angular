@@ -1,0 +1,28 @@
+{
+  "name": "twitter-clone-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibabalwe47/twitter-clone-angular.git"
+  },
+  "author": "Siba N.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sibabalwe47/twitter-clone-angular/issues"
+  },
+  "homepage": "https://github.com/sibabalwe47/twitter-clone-angular#readme",
+  "dependencies": {
+    "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.11",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.6"
+  }
+}
